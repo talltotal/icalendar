@@ -10,7 +10,7 @@
     "icalender"
   ],
   "author": "talltotal@163.com",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "md5": "^2.3.0"
   }
