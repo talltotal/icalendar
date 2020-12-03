@@ -1,0 +1,17 @@
+{
+  "name": "icalendar",
+  "version": "0.0.1",
+  "type": "module",
+  "description": "apple calender tool",
+  "scripts": {
+    "vacation": "node ./lib/vacation.js"
+  },
+  "keywords": [
+    "icalender"
+  ],
+  "author": "talltotal@163.com",
+  "license": "ISC",
+  "dependencies": {
+    "md5": "^2.3.0"
+  }
+}
