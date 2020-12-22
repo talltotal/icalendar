@@ -4,7 +4,9 @@
   "type": "module",
   "description": "apple calender tool",
   "scripts": {
-    "vacation": "node ./lib/vacation.js"
+    "vacation": "node ./lib/main.js vacation",
+    "ngmm": "node ./lib/main.js ngmm",
+    "all": "node ./lib/main.js all"
   },
   "keywords": [
     "icalender"
