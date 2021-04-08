@@ -2,6 +2,7 @@
 
 - 节假日安排
     - 订阅链接：`https://raw.githubusercontent.com/talltotal/icalendar/main/data/vacation.ics`。
+        > CDN：`https://cdn.jsdelivr.net/gh/talltotal/icalendar/data/vacation.ics`
     - 已提供：2021年
 
 
