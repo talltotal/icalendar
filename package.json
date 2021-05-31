@@ -5,7 +5,7 @@
   "description": "apple calender tool",
   "scripts": {
     "vacation": "node ./lib/main.js vacation",
-    "ngmm": "node ./lib/main.js ngmm",
+    "tuya": "node ./lib/main.js tuya",
     "all": "node ./lib/main.js all"
   },
   "keywords": [
