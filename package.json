@@ -4,9 +4,10 @@
   "type": "module",
   "description": "apple calender tool",
   "scripts": {
-    "vacation": "node ./lib/main.js vacation",
-    "tuya": "node ./lib/main.js tuya",
-    "all": "node ./lib/main.js all"
+    "vacation": "node ./bin/icalendar.js vacation",
+    "tuya": "node ./bin/icalendar.js tuya",
+    "all": "node ./bin/icalendar.js all",
+    "fetch": "node ./script/sf/bin.js"
   },
   "keywords": [
     "icalender"
@@ -14,6 +15,8 @@
   "author": "talltotal@163.com",
   "license": "MIT",
   "dependencies": {
-    "md5": "^2.3.0"
+    "commander": "^8.0.0",
+    "md5": "^2.3.0",
+    "puppeteer": "^10.1.0"
   }
 }
